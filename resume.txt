@@ -1,0 +1,21 @@
+Personal information
+Jennifer Smith
+456-765-493
+Warsaw, ul. Jana Matejki 54 27-400
+mark.smith@gmail.com
+
+Education
+I got bachelor degree on University of Oxford in Chemistry.
+I got master degree Maasecziuset Institution of Technology in information technology.
+
+Experience
+From March 2015, working in Huevo company.
+
+Abilities
+c++ - master,
+java - basics,
+ability in working in group
+
+Interests
+swimming, programming and music
+
